@@ -1,4 +1,4 @@
-# 🔍 Explainable AI Visualizer for Real-World Images
+# 🔍 Explainable AI Visualiser for Real-World Images
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-orange.svg)](https://pytorch.org/)
